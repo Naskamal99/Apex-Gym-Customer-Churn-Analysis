@@ -11,10 +11,3 @@ An end-to-end data analytics project using Python for data auditing, baseline me
 2. Churn Baseline: Computes the aggregate churn percentage across memberships.
 3. Feature Engineering: Groups member segments into targeted age buckets.
 
-## Deployment Details
-Clone this repository to your local directory:
-git clone https://github.com/Naskamal99/Apex-Gym-Customer-Churn-Analysis.git
-
-
-Run the core script layout:
-python main.py
